@@ -138,13 +138,12 @@ Data Visualization
 Executive Reporting
 
 ### 📌 Project Structure
-'''text 
+```text
 /data
 /notebooks
 /excel_dashboard
 /README.md
-🔥 Optional Upgrade (If You Want It Stronger)
-'''
+```
 
 
 ### “What I Learned”
